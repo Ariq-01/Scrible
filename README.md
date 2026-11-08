@@ -36,3 +36,6 @@ Expands into a complete IDE layout with side panels, file tree, integrated termi
 ![Scrible Feature Graph](./graph_features_obsidian.jpg)
 
 *Visual map of Scrible's core feature relationships and capabilities.*
+
+
+![power management - low level code](./power-management.heic)
